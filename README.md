@@ -25,4 +25,5 @@ taller-data-science2/
 ├── Pandas_test.ipynb        # Notebook de prueba y validación de análisis de datos
 ├── requirements.txt         # Dependencias necesarias para ejecutar el proyecto
 └── README.md                # Documentación principal del repositorio
-Autor: Oscar Julian Arevalo Quimbayo
+
+Autor: Oscar Julian Arevalo 
